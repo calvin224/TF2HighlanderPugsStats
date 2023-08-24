@@ -1,0 +1,95 @@
+{
+  "title": "Highlander PUG Statistics",
+  "id": "kosuketf2/hlpugstats",
+  "licenses": [
+    {
+      "name": "CC0: Public Domain",
+      "id": "cc0-1.0"
+    }
+  ],
+  "description": "Statistics for Highlander Pick-Up Games (PUGs) in Team Fortress 2. Source code = https://github.com/Kosuketf2/HighlanderPugStatsEU/tree/master",
+  "keywords": ["Team Fortress 2", "Highlander", "PUGs", "Statistics", "TF2"],
+  "resources": [
+    {
+      "path": "Overall_player_stats_30days.csv",
+      "description": "Overall player statistics."
+    },
+    {
+      "path": "scout_class_stats_30days.csv",
+      "description": "Scout class statistics."
+    },
+    {
+      "path": "soldier_class_stats_30days.csv",
+      "description": "Soldier class statistics."
+    },
+    {
+      "path": "demoman_class_stats_30days.csv",
+      "description": "Demoman class statistics."
+    },
+    {
+      "path": "medic_class_stats_30days.csv",
+      "description": "Medic class statistics."
+    },
+    {
+      "path": "sniper_class_stats_30days.csv",
+      "description": "Sniper class statistics."
+    },
+    {
+      "path": "heavyweapons_class_stats_30days.csv",
+      "description": "Heavy Weapons class statistics."
+    },
+    {
+      "path": "pyro_class_stats_30days.csv",
+      "description": "Pyro class statistics."
+    },
+    {
+      "path": "spy_class_stats_30days.csv",
+      "description": "Spy class statistics."
+    },
+    {
+      "path": "engineer_class_stats_30days.csv",
+      "description": "Engineer class statistics."
+    },
+    {
+      "path": "overall_player_stats.csv",
+      "description": "Overall player statistics."
+    },
+    {
+      "path": "scout_class_stats.csv",
+      "description": "Scout class statistics."
+    },
+    {
+      "path": "soldier_class_stats.csv",
+      "description": "Soldier class statistics."
+    },
+    {
+      "path": "demoman_class_stats.csv",
+      "description": "Demoman class statistics."
+    },
+    {
+      "path": "medic_class_stats.csv",
+      "description": "Medic class statistics."
+    },
+    {
+      "path": "sniper_class_stats.csv",
+      "description": "Sniper class statistics."
+    },
+    {
+      "path": "heavyweapons_class_stats.csv",
+      "description": "Heavy Weapons class statistics."
+    },
+    {
+      "path": "pyro_class_stats.csv",
+      "description": "Pyro class statistics."
+    },
+    {
+      "path": "spy_class_stats.csv",
+      "description": "Spy class statistics."
+    },
+    {
+      "path": "engineer_class_stats.csv",
+      "description": "Engineer class statistics."
+    }
+  ]
+}
+

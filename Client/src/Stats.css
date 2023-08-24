@@ -1,0 +1,46 @@
+/* Center the table */
+table {
+    margin: 0 auto;
+    width: 80%; /* Adjust the width as needed */
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Style the table header */
+thead {
+    background-color: #f2f2f2; /* Light gray background */
+}
+
+/* Style the table header cells */
+th {
+    padding: 12px;
+    text-align: left;
+}
+
+/* Style the table data rows */
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Add a bottom border to separate rows */
+}
+
+/* Style the sort buttons */
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Style the loading message */
+tr.loading td {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+}
+.timeframe-toggle button.selected {
+  background-color: #007bff;
+  color: #fff;
+}
+
+
